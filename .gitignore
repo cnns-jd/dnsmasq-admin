@@ -1,0 +1,7 @@
+/bin
+Makefile.an
+go.sum
+/.idea
+/.vscode
+.DS_Store
+
